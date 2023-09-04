@@ -223,8 +223,14 @@ input:focus {
         font-size: 3.125rem;
         text-align: left;
         padding: 0;
+        line-height:1 ;
     }
     aside p{
         text-align: left;
     }
+    
+    form{
+        padding: 3rem 2rem;
+    }
+    
 }
